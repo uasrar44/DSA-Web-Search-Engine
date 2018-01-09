@@ -9,6 +9,10 @@ import java.io.Serializable;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ *
+ * @author Urwah Asrar
+ */
 public class Page implements Serializable{
     int id;
     String title;
